@@ -6,11 +6,11 @@ Whether you're a seasoned developer looking to enhance your portfolio or a begin
 
 Key Features:
 
-Parallax scrolling effect for a dynamic user experience.
-Structured and semantic HTML markup for accessibility.
-Responsive design to ensure compatibility across various devices.
-Tailwind CSS for rapid styling and easy customization.
-Annotated code for easy understanding and learning.
+Parallax scrolling effect for a dynamic user experience <br>
+Structured and semantic HTML markup for accessibility.<br>
+Responsive design to ensure compatibility across various devices.<br>
+Tailwind CSS for rapid styling and easy customization.<br>
+Annotated code for easy understanding and learning.<br>
 Explore the synergy of HTML, CSS, and Tailwind to bring your creative vision to life. Fork this project on GitHub, and let your journey into the world of Parallax Websites begin!
 
 
